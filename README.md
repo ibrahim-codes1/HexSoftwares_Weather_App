@@ -109,7 +109,7 @@ The objective of the project is to:
 
 ## 👨‍💻 Developer
 
-**Waqas Mansoor**
+**Muhammad Ibrahim**
 
 Android Developer
 
